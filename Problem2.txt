@@ -13,7 +13,7 @@ for ( increase i from 1 to N - 1 )
             Array[j+1] = Temp
 
             // Set the flag to indicate a swap occurred
-            Swapped = True
+            Swapped = True 
         endif
     endfor
 
